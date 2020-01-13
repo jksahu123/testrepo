@@ -1,2 +1,3 @@
 file1 text added.
 second line in file1 added.
+clone 1 getting updated.
